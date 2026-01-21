@@ -1,0 +1,745 @@
+{
+  "menu": [
+    {
+      "id": "breakfast-tapas",
+      "titulo": "Breakfast Tapas",
+      "platos": [
+        {
+          "id": "sopapilla",
+          "nombre": "Sopapilla",
+          "ingredientes": "Fluffy, fried New Mexican bread.",
+          "precio": 6.00
+        },
+        {
+          "id": "french-toast",
+          "nombre": "French Toast",
+          "ingredientes": "Texas toast battered and grilled with whipped cream.",
+          "precio": 7.00
+        }
+      ]
+    },
+    {
+      "id": "appetizers",
+      "titulo": "Appetizers",
+      "platos": [
+        {
+          "id": "chips-salsa",
+          "nombre": "Chips & Salsa",
+          "ingredientes": "Crispy tortilla chips with fresh salsa.",
+          "precio": 4.50
+        },
+        {
+          "id": "chips-guac",
+          "nombre": "Chips & Guacamole",
+          "ingredientes": "Crispy tortilla chips with homemade guacamole.",
+          "precio": 7.00
+        },
+        {
+          "id": "flautitas",
+          "nombre": "Flautitas",
+          "ingredientes": "Crispy fried rolled tortillas with filling.",
+          "precio": 7.00
+        },
+        {
+          "id": "chile-cheese-chips",
+          "nombre": "Chile & Cheese Chips",
+          "ingredientes": "Crispy chips topped with chile and melted cheese.",
+          "precio": 5.00
+        },
+        {
+          "id": "birria-pizza",
+          "nombre": "Birria Pizza",
+          "ingredientes": "Crispy pizza with birria and melted cheese.",
+          "precio": 14.00
+        },
+        {
+          "id": "mini-chimi",
+          "nombre": "Mini Chimi's",
+          "ingredientes": "Mini fried burritos with meat and cheese.",
+          "precio": 14.00
+        },
+        {
+          "id": "los-taos-ember",
+          "nombre": "Los Taos Ember",
+          "ingredientes": "Two birria beef tacos with melted cheese.",
+          "precio": 10.00
+        },
+        {
+          "id": "sierra-nachos",
+          "nombre": "Sierra Nachos",
+          "ingredientes": "Loaded nachos with cheese and toppings. Add meat: +$2.50",
+          "precio": 12.00
+        }
+      ]
+    },
+    {
+      "id": "kids-breakfast",
+      "titulo": "Kids Breakfast",
+      "platos": [
+        {
+          "id": "kids-eggs",
+          "nombre": "Kids Eggs & Friends",
+          "ingredientes": "One egg scrambled, one meat, one diced potatoes.",
+          "precio": 6.00
+        },
+        {
+          "id": "funny-pancake",
+          "nombre": "Funny Face Pancake",
+          "ingredientes": "Pancake garnished with fruit and whipped cream.",
+          "precio": 6.50
+        },
+        {
+          "id": "french-sticks",
+          "nombre": "French Toast Sticks",
+          "ingredientes": "French toast with whipped cream.",
+          "precio": 7.00
+        },
+        {
+          "id": "kids-chicken",
+          "nombre": "Kids Chicken Strips",
+          "ingredientes": "2 fried battered chicken strips.",
+          "precio": 6.50
+        }
+      ]
+    },
+    {
+      "id": "breakfast-main",
+      "titulo": "Breakfast (Main Menu)",
+      "platos": [
+        {
+          "numero": 1,
+          "id": "huevos-rancheros",
+          "nombre": "Huevos Rancheros",
+          "ingredientes": "Two eggs, corn tortillas, red or green chile, hashbrowns, and beans. Side tortilla.",
+          "precio": 13.00
+        },
+        {
+          "numero": 2,
+          "id": "la-sierra-breakfast",
+          "nombre": "La Sierra Breakfast",
+          "ingredientes": "Crispy corn tortillas and papas smothered in red or green chile, topped with cheese and a fried egg.",
+          "precio": 12.00
+        },
+        {
+          "numero": 3,
+          "id": "santa-fe-sunrise",
+          "nombre": "Santa Fe Sunrise Burrito",
+          "ingredientes": "Eggs, hashbrowns, cheese, choice of meat, smothered or handheld.",
+          "precio": 9.00
+        },
+        {
+          "numero": 4,
+          "id": "2-2-2",
+          "nombre": "2-2-2",
+          "ingredientes": "Two eggs two meat (bacon, sausage or ham) with 2 pancakes.",
+          "precio": 10.00
+        },
+        {
+          "numero": 5,
+          "id": "3-3-3",
+          "nombre": "3-3-3",
+          "ingredientes": "Three eggs three meat (bacon, sausage or ham) with 3 pancakes.",
+          "precio": 12.50
+        },
+        {
+          "numero": 6,
+          "id": "porkchops-eggs",
+          "nombre": "Porkchops and Eggs",
+          "ingredientes": "Two pork chops with 2 eggs and hash browns.",
+          "precio": 14.00
+        },
+        {
+          "numero": 7,
+          "id": "huevos-mexicana",
+          "nombre": "Huevos a la Mexicana",
+          "ingredientes": "Scrambled eggs with tomato jalapenos onions with side of bacon and hash browns.",
+          "precio": 12.00
+        },
+        {
+          "numero": 8,
+          "id": "breakfast-skillet",
+          "nombre": "Breakfast Skillet",
+          "ingredientes": "Carne adovada, 2 eggs, papas, beans, tortilla.",
+          "precio": 14.00
+        },
+        {
+          "numero": 9,
+          "id": "enchanted-morning",
+          "nombre": "The Enchanted Morning",
+          "ingredientes": "Chorizo & eggs scrambled served with hash browns, beans, and a side of red or green chile.",
+          "precio": 12.00
+        },
+        {
+          "numero": 10,
+          "id": "chicken-waffle",
+          "nombre": "Chicken and Waffle",
+          "ingredientes": "Waffle with 2 fried battered chicken strips.",
+          "precio": 10.00
+        },
+        {
+          "numero": 11,
+          "id": "pancakes",
+          "nombre": "Pancakes (3)",
+          "ingredientes": "Three pancakes. Add raspberry or chocolate.",
+          "precio": 7.50
+        },
+        {
+          "numero": 12,
+          "id": "waffle",
+          "nombre": "Waffle",
+          "ingredientes": "Waffle. Add chocolate dressing or raspberry.",
+          "precio": 7.00
+        },
+        {
+          "numero": 13,
+          "id": "chimayo-benedict",
+          "nombre": "Chimayó Benedict",
+          "ingredientes": "2 eggs on top of 2 sopapilla, adobada and asada smothered with la sierra sauce.",
+          "precio": 16.00
+        },
+        {
+          "numero": 14,
+          "id": "burqueno",
+          "nombre": "Burqueño Breakfast",
+          "ingredientes": "2 eggs ontop of rice with a porkchop smothered in a shrimp sauce.",
+          "precio": 19.00
+        },
+        {
+          "numero": 15,
+          "id": "breakfast-tacos",
+          "nombre": "Breakfast Tacos",
+          "ingredientes": "Scrambled egg street style tacos with cheese egg and choice of meat (ham or chorizo).",
+          "precio": 13.00
+        },
+        {
+          "numero": 16,
+          "id": "north-valley-sandwich",
+          "nombre": "North Valley Sandwich",
+          "ingredientes": "Egg & cheese breakfast sandwich choice of bacon, ham, or chorizo served with papitas.",
+          "precio": 14.50
+        }
+      ]
+    },
+    {
+      "id": "burgers",
+      "titulo": "Burgers",
+      "platos": [
+        {
+          "id": "cheeseburger",
+          "nombre": "Cheeseburger",
+          "ingredientes": "With fries or papas.",
+          "precio": 12.00
+        },
+        {
+          "id": "green-chile-burger",
+          "nombre": "Green Chile Cheeseburger",
+          "ingredientes": "With fries or papas.",
+          "precio": 12.50
+        },
+        {
+          "id": "burque-burner",
+          "nombre": "The Burque Burner",
+          "ingredientes": "2 patty bacon guak red chile with fries.",
+          "precio": 16.00
+        },
+        {
+          "id": "la-sierra-burger",
+          "nombre": "La Sierra Burger",
+          "ingredientes": "2 patty bacon, guak, green chile with fries.",
+          "precio": 16.00
+        },
+        {
+          "id": "indian-taco-burger",
+          "nombre": "Indian Taco Burger",
+          "ingredientes": "Ground beef on sopapilla, smothered in chile.",
+          "precio": 14.00
+        },
+        {
+          "id": "tortilla-burger",
+          "nombre": "Tortilla Burger",
+          "ingredientes": "Wrapped in tortilla, smothered in chile and cheese.",
+          "precio": 14.00
+        }
+      ]
+    },
+    {
+      "id": "vegetarian",
+      "titulo": "Vegetarian Plates",
+      "platos": [
+        {
+          "id": "bean-enchiladas",
+          "nombre": "Bean Enchiladas",
+          "ingredientes": "Enchiladas smothered in red or green chile, served with rice and beans. Add a fried egg for +$2.00.",
+          "precio": 10.00
+        },
+        {
+          "id": "bean-tacos",
+          "nombre": "Bean Tacos",
+          "ingredientes": "3 bean tacos with side of beans and rice.",
+          "precio": 10.00
+        },
+        {
+          "id": "veggie-fajitas",
+          "nombre": "Veggie Fajitas",
+          "ingredientes": "Veggie mix with bell peppers beans and rice.",
+          "precio": 16.00
+        },
+        {
+          "id": "veggie-burro",
+          "nombre": "Veggie Burro",
+          "ingredientes": "Veggie mix with bell peppers beans and rice.",
+          "precio": 13.00
+        },
+        {
+          "id": "taco-salad",
+          "nombre": "Taco Salad",
+          "ingredientes": "Crispy salad bowl with vegetables. Add meat $2.00.",
+          "precio": 12.00
+        }
+      ]
+    },
+    {
+      "id": "skillets",
+      "titulo": "Skillets",
+      "platos": [
+        {
+          "id": "steak-mexicana",
+          "nombre": "Steak a la Mexicana",
+          "ingredientes": "With chile, sautéed peppers/onions, rice, beans and tortillas.",
+          "precio": 16.00
+        },
+        {
+          "id": "fajitas",
+          "nombre": "Fajitas",
+          "ingredientes": "Choice of steak, chicken, or shrimp with toppings & tortillas.",
+          "precio": 20.00
+        },
+        {
+          "id": "la-sierra-skillet",
+          "nombre": "La Sierra Skillet",
+          "ingredientes": "Sizzling mix of steak, chicken, shrimp with toppings.",
+          "precio": 22.00
+        },
+        {
+          "id": "land-of-enchantment",
+          "nombre": "The Land of Enchantment Ribeye",
+          "ingredientes": "Ribeye steak with a poblano beans and rice.",
+          "precio": 25.00
+        },
+        {
+          "id": "los-nunez",
+          "nombre": "Los Nuñez Favorite",
+          "ingredientes": "Beef or chicken smothered in a Los Nuñez special souce with rice and beans. +2.00 add egg, add shrimp +$5.00.",
+          "precio": 17.00
+        }
+      ]
+    },
+    {
+      "id": "kids-meal",
+      "titulo": "Kids Meal",
+      "platos": [
+        {
+          "id": "kids-burger",
+          "nombre": "Kids Burger",
+          "ingredientes": "Classic kids hamburger with fries.",
+          "precio": 10.00
+        },
+        {
+          "id": "kids-flautitas",
+          "nombre": "Kids Flautitas",
+          "ingredientes": "Crispy rolled tortillas.",
+          "precio": 7.00
+        },
+        {
+          "id": "kids-bean-burrito",
+          "nombre": "Kids Bean Cheese Burrito",
+          "ingredientes": "Burrito with beans and cheese.",
+          "precio": 6.00
+        },
+        {
+          "id": "kids-quesadilla",
+          "nombre": "Kid Cheese Quesadilla",
+          "ingredientes": "Quesadilla with cheese. Add meat + $2.00",
+          "precio": 7.00
+        }
+      ]
+    },
+    {
+      "id": "lunch-dinner",
+      "titulo": "Lunch & Dinner",
+      "platos": [
+        {
+          "numero": 1,
+          "id": "combo-1",
+          "nombre": "Combination Plate #1",
+          "ingredientes": "1 enchilada, 1 taco, 1 tamale with rice & beans.",
+          "precio": 14.00
+        },
+        {
+          "numero": 2,
+          "id": "combo-2",
+          "nombre": "Combination Plate #2",
+          "ingredientes": "1 enchilada, 1 taco, 1 tamale, 1 chile rellenos rice & beans.",
+          "precio": 15.00
+        },
+        {
+          "numero": 3,
+          "id": "cheese-enchiladas",
+          "nombre": "Cheese Enchiladas",
+          "ingredientes": "3 enchilada rolled or flat red or green. Add meat +$2.50 | Add eggs +$2.00.",
+          "precio": 11.00
+        },
+        {
+          "numero": 4,
+          "id": "enchanted-enchilada",
+          "nombre": "The Enchanted Enchilada",
+          "ingredientes": "Flat or rolled cheese blue corn enchiladas smothered in red and green chile add meat +$2.50 | Add eggs +$2.00.",
+          "precio": 12.00
+        },
+        {
+          "numero": 5,
+          "id": "flautas-plate",
+          "nombre": "Flautas Plate",
+          "ingredientes": "Four crispy rolled tacos filled with shredded chicken or beef, served with rice and beans.",
+          "precio": 12.00
+        },
+        {
+          "numero": 6,
+          "id": "chile-rellenos",
+          "nombre": "Chile Rellenos (2)",
+          "ingredientes": "Roasted and battered, with cheese, topped with chile.",
+          "precio": 12.00
+        },
+        {
+          "numero": 7,
+          "id": "carne-adovada",
+          "nombre": "Carne Adovada Plate",
+          "ingredientes": "Red chile pork with 1 enchilada beans and rice.",
+          "precio": 17.00
+        },
+        {
+          "numero": 8,
+          "id": "carne-asada",
+          "nombre": "Carne Asada Plate",
+          "ingredientes": "Served with rice, beans, 1 enchilada, tortillas.",
+          "precio": 17.00
+        },
+        {
+          "numero": 9,
+          "id": "taco-plate",
+          "nombre": "Taco Plate",
+          "ingredientes": "3 tacos choice of meat with rice and beans.",
+          "precio": 11.00
+        },
+        {
+          "numero": 10,
+          "id": "tamale-plate",
+          "nombre": "Tamale Plate",
+          "ingredientes": "2 pork tamales, rice and beans.",
+          "precio": 10.50
+        },
+        {
+          "numero": 11,
+          "id": "zia-chimi",
+          "nombre": "The Zia Chimi",
+          "ingredientes": "Fried burrito with meat, beans, cheese, red or green chile.",
+          "precio": 15.00
+        },
+        {
+          "numero": 12,
+          "id": "burrito",
+          "nombre": "Burrito",
+          "ingredientes": "1 meat choice bean rice choice of smothered red/green.",
+          "precio": 15.00
+        },
+        {
+          "numero": 13,
+          "id": "super-burrito",
+          "nombre": "Super Burrito",
+          "ingredientes": "Choice of meats bean rice choice of smothered red/green. Bean and rice lettuce tomato.",
+          "precio": 18.00
+        },
+        {
+          "numero": 14,
+          "id": "rio-grande-bowl",
+          "nombre": "Rio Grande Bowl",
+          "ingredientes": "Green chile stew with corn or flour tortilla.",
+          "precio": 14.00
+        },
+        {
+          "numero": 15,
+          "id": "santa-fe-surf",
+          "nombre": "Santa Fe Surf",
+          "ingredientes": "Shrimp and cheese blue corn enchilada in smothered in red or green chile.",
+          "precio": 18.00
+        },
+        {
+          "numero": 16,
+          "id": "jemez-flame-tilapia",
+          "nombre": "Jemez Flame Tilapia",
+          "ingredientes": "Filet on top of a poblano mango green chile sauce cheese with beans rice tortillas.",
+          "precio": 18.00
+        },
+        {
+          "numero": 17,
+          "id": "rio-grande-mango-shrimp",
+          "nombre": "Rio Grande Mango Shrimp",
+          "ingredientes": "Shrimp on top of a poblano smothered mango green chile sauce & cheese with beans rice tortillas.",
+          "precio": 18.00
+        }
+      ]
+    },
+    {
+      "id": "a-la-carte",
+      "titulo": "A La Carte",
+      "platos": [
+        {
+          "id": "one-egg",
+          "nombre": "One Egg (Any Style)",
+          "ingredientes": "Single egg prepared your way.",
+          "precio": 2.00
+        },
+        {
+          "id": "bacon",
+          "nombre": "Bacon (2 Strips)",
+          "ingredientes": "Two strips of crispy bacon.",
+          "precio": 3.00
+        },
+        {
+          "id": "sausage",
+          "nombre": "Sausage (2 Links or Patties)",
+          "ingredientes": "Two sausage links or patties.",
+          "precio": 3.00
+        },
+        {
+          "id": "ham",
+          "nombre": "Ham",
+          "ingredientes": "Slice of ham.",
+          "precio": 3.00
+        },
+        {
+          "id": "carne-adovada-carte",
+          "nombre": "Carne Adovada",
+          "ingredientes": "Red chile pork.",
+          "precio": 5.00
+        },
+        {
+          "id": "tamale-carte",
+          "nombre": "Tamale (Red Pork)",
+          "ingredientes": "Steamed masa with red pork filling.",
+          "precio": 5.00
+        },
+        {
+          "id": "enchilada-carte",
+          "nombre": "Cheese Enchilada (Red or Green Chile)",
+          "ingredientes": "Single enchilada with cheese.",
+          "precio": 3.50
+        },
+        {
+          "id": "relleno-carte",
+          "nombre": "Chile Relleno",
+          "ingredientes": "Roasted poblano with cheese.",
+          "precio": 5.00
+        },
+        {
+          "id": "taco-carte",
+          "nombre": "Taco (Beef, Chicken, or Carne Asada)",
+          "ingredientes": "Single taco with your choice of meat.",
+          "precio": 4.00
+        },
+        {
+          "id": "bread-carte",
+          "nombre": "Toast or Tortilla (Flour or Corn)",
+          "ingredientes": "Your choice of toast or tortilla.",
+          "precio": 1.50
+        },
+        {
+          "id": "side-salad",
+          "nombre": "Side Salad",
+          "ingredientes": "Fresh green salad.",
+          "precio": 4.00
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "titulo": "Dessert",
+      "platos": [
+        {
+          "id": "chocolate-cake",
+          "nombre": "Chocolate Cake",
+          "ingredientes": "Rich and delicious chocolate cake.",
+          "precio": 7.00
+        },
+        {
+          "id": "cheese-cake",
+          "nombre": "Cheese Cake",
+          "ingredientes": "Creamy New York style cheesecake.",
+          "precio": 7.00
+        },
+        {
+          "id": "churro",
+          "nombre": "Churro de la Sierra",
+          "ingredientes": "Crispy fried dough pastry.",
+          "precio": 4.50
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "titulo": "Drinks",
+      "platos": [
+        {
+          "id": "fountain-drink",
+          "nombre": "Fountain Drink",
+          "ingredientes": "Your choice of fountain beverages.",
+          "precio": 3.50
+        },
+        {
+          "id": "mexi-coke",
+          "nombre": "Mexi Coke",
+          "ingredientes": "Mexican Coca-Cola (No Refill).",
+          "precio": 3.50
+        },
+        {
+          "id": "mexi-sprite",
+          "nombre": "Mexi Sprite",
+          "ingredientes": "Mexican Sprite (No Refill).",
+          "precio": 3.50
+        },
+        {
+          "id": "mexi-fanta",
+          "nombre": "Mexi Fanta",
+          "ingredientes": "Mexican Fanta (No Refill).",
+          "precio": 3.50
+        },
+        {
+          "id": "jarritos",
+          "nombre": "Jarritos",
+          "ingredientes": "Mexican Jarritos (No Refill).",
+          "precio": 3.50
+        },
+        {
+          "id": "coffee",
+          "nombre": "Coffee",
+          "ingredientes": "Hot brewed coffee.",
+          "precio": 3.50
+        },
+        {
+          "id": "ice-tea",
+          "nombre": "Ice Tea",
+          "ingredientes": "Refreshing iced tea.",
+          "precio": 3.50
+        },
+        {
+          "id": "orange-juice",
+          "nombre": "Orange Juice",
+          "ingredientes": "Fresh orange juice (No Refill).",
+          "precio": 3.50
+        },
+        {
+          "id": "cranberry-juice",
+          "nombre": "Cranberry Juice",
+          "ingredientes": "Cranberry juice (No Refill).",
+          "precio": 3.50
+        },
+        {
+          "id": "pineapple-juice",
+          "nombre": "Pineapple Juice",
+          "ingredientes": "Pineapple juice (No Refill).",
+          "precio": 3.50
+        }
+      ]
+    },
+    {
+      "id": "agua-fresca",
+      "titulo": "Agua Fresca",
+      "platos": [
+        {
+          "id": "horchata",
+          "nombre": "Horchata",
+          "ingredientes": "Traditional rice-based refreshing drink.",
+          "precio": 4.00
+        },
+        {
+          "id": "jamaica",
+          "nombre": "Jamaica",
+          "ingredientes": "Hibiscus flower drink.",
+          "precio": 4.00
+        },
+        {
+          "id": "pineapple-fresca",
+          "nombre": "Pineapple",
+          "ingredientes": "Fresh pineapple drink.",
+          "precio": 4.00
+        },
+        {
+          "id": "mango-fresca",
+          "nombre": "Mango",
+          "ingredientes": "Fresh mango drink.",
+          "precio": 4.00
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "titulo": "Sides",
+      "platos": [
+        {
+          "id": "papas",
+          "nombre": "Papas (Home Fries)",
+          "ingredientes": "Crispy home-style fried potatoes.",
+          "precio": 4.00
+        },
+        {
+          "id": "french-fries",
+          "nombre": "French Fries",
+          "ingredientes": "Golden fried potato sticks.",
+          "precio": 4.00
+        },
+        {
+          "id": "beans",
+          "nombre": "Beans",
+          "ingredientes": "Refried or whole beans.",
+          "precio": 3.00
+        },
+        {
+          "id": "rice",
+          "nombre": "Rice",
+          "ingredientes": "Spanish rice.",
+          "precio": 3.00
+        },
+        {
+          "id": "chile-cup",
+          "nombre": "Red or Green Chile (Cup)",
+          "ingredientes": "Your choice of red or green chile.",
+          "precio": 2.50
+        },
+        {
+          "id": "guacamole",
+          "nombre": "Guacamole",
+          "ingredientes": "Fresh avocado dip.",
+          "precio": 4.00
+        },
+        {
+          "id": "sour-cream",
+          "nombre": "Sour Cream",
+          "ingredientes": "Creamy sour cream.",
+          "precio": 2.00
+        },
+        {
+          "id": "cheese",
+          "nombre": "Cheese",
+          "ingredientes": "Melted cheese.",
+          "precio": 1.00
+        },
+        {
+          "id": "salsa",
+          "nombre": "Salsa",
+          "ingredientes": "Fresh salsa.",
+          "precio": 1.00
+        }
+      ]
+    }
+  ]
+}
