@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import heroBg from "@/assets/hero-bg.jpg";
 import fondoHero from "@/assets/fondoHero.jpeg";
+import img7511 from "@/assets/IMG_7511.png";
 import { Button } from "@/components/ui/button";
 
 interface HeroProps {
@@ -30,7 +31,7 @@ const Hero = ({ onReserveClick }: HeroProps) => {
           whileHover={{ scale: 1.1 }}
         >
           <img
-            src="/src/assets/IMG_7511.png"
+            src={img7511}
             alt="La Sierra Logo"
             className="w-64 h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 mx-auto object-contain filter drop-shadow-lg"
           />
